@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kj2jj7.salamcuan.shop/sitemap.xml
